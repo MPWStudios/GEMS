@@ -1,0 +1,33 @@
+G.E.M.S. — Generative Euclidean Melodic Sequencer for VCV Rack
+License: Personal Use Only / No Derivatives / No Commercial Redistribution
+
+Copyright (c) 2025 MPW Studios
+
+This software is provided as a compiled binary only. No source code is included or licensed.
+
+You are granted the following rights:
+
+  ✅ Personal Use:
+     - You may install and use this plugin for your own music-making, performances, recordings, livestreams, or videos (including monetised platforms such as YouTube, Twitch, Patreon, etc).
+
+  ✅ Sharing the Original File:
+     - You may share the original, unmodified binary exactly as provided, as long as this LICENSE file is included.
+
+The following are NOT permitted under this license:
+
+  🚫 No Commercial Use:
+     - You may NOT sell, rent, bundle, or include this plugin in any paid product, collection, or service without explicit written permission from MPW Studios.
+
+  🚫 No Derivative Works:
+     - You may NOT modify, reverse-engineer, decompile, or create modified versions (forks, alternates, expansions, rewrites, etc), even if distributed for free.
+
+  🚫 No Redistribution of Modified Versions:
+     - Only the original binary provided by MPW Studios may be shared. No altered versions may be uploaded, shared, or repackaged.
+
+All rights not expressly granted are reserved by MPW Studios.
+
+For commercial usage, licensing inquiries, or hardware collaborations, contact:
+mpwmedia@aol.com
+
+If you enjoy this plugin and would like to support ongoing development:
+https://buymeacoffee.com/mpwstudios
