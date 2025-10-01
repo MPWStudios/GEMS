@@ -1,0 +1,21 @@
+{
+"slug": "GEMS",
+"name": "G.E.M.S",
+"version": "2.0.0",
+"apiVersion": "2",
+"license": "GPL-3.0-or-later",
+"brand": "MW",
+"author": "Mark Welton + ChatGPT",
+"authorEmail": "",
+"pluginUrl": "",
+"manualUrl": "",
+"sourceUrl": "",
+"modules": [
+{
+"slug": "GEMS",
+"name": "G.E.M.S (Single)",
+"description": "Single-lane Generative Euclidean melodic sequencer with custom scale and walk",
+"tags": ["Sequencer", "Polyphonic", "Quantizer"]
+}
+]
+}
